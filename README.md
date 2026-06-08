@@ -1,16 +1,23 @@
-## Hi there 👋
+# Grâce Salem Mboula 
 
-<!--
-**GraceSalem-1/GraceSalem-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Étudiante Master Finance & Big Data Data Science — ESG Finance, Paris
 
-Here are some ideas to get you started:
+ Je travaille à l'intersection de la finance et de la data :
+modélisation financière, analyse de risque, trading algorithmique.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Projets
+
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| [Calculateur d'investissement](https://nova-investify.streamlit.app) | Simulation et projection de scénarios financiers | Python, Streamlit |
+
+| [Sector Momentum Rotation]  | Stratégie algo sur 11 ETFs SPDR — backtest 2016-2026, rendement 85.77% | Python, QuantConnect |
+
+| Détection de fraudes bancaires | Modèles prédictifs sur transactions bancaires — projet académique | SAS |
+##  Compétences
+
+Python · SAS · Excel avancé · QuantConnect · Power BI · Analyse financière · Modélisation · Gestion des risques
+
+##  Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Grace_Salem_Mboula-blue)](https://www.linkedin.com/in/grace-salem-mboula-199971340)
