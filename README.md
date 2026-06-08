@@ -11,9 +11,9 @@ modélisation financière, analyse de risque, trading algorithmique.
 |--------|-------------|-------|
 | [Calculateur d'investissement](https://nova-investify.streamlit.app) | Simulation et projection de scénarios financiers | Python, Streamlit |
 
-| [Sector Momentum Rotation]  | Stratégie algo sur 11 ETFs SPDR — backtest 2016-2026, rendement 85.77% | Python, QuantConnect |
+| [Sector Momentum Rotation]    | Stratégie algo sur 11 ETFs SPDR — backtest 2016-2026, rendement 85.77% | Python, QuantConnect |
 
-| Détection de fraudes bancaires | Modèles prédictifs sur transactions bancaires — projet académique | SAS |
+| Détection de fraudes bancaires   | Modèles prédictifs sur transactions bancaires — projet académique | SAS |
 ##  Compétences
 
 Python · SAS · Excel avancé · QuantConnect · Power BI · Analyse financière · Modélisation · Gestion des risques
